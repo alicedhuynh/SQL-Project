@@ -1,1 +1,1 @@
-# STAT560HW1Rcode
+# STAT560 Homework Rcode
